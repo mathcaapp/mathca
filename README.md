@@ -25,8 +25,6 @@ When creating a new issue, it's important to provide as much information as poss
 ### Submitting a Typo or Correcting Content
 > If you have found a typo or need to suggest a correction to the content within the MathCA app, please follow these steps:
 >
-> Before submitting a ticket for a typo or content correction, please check if a similar issue has already been reported [here](https://github.com/mathcaapp/mathca/issues).
->
 > **Title:** Give a concise and descriptive title to your issue, such as "Typo in MathCA Pro version 2.1.0" or "Content correction in MathCA Basic version 1.5.2."
 >
 > **Description:** In the description, clearly mention the specific area where the typo or incorrect content is located. Provide the incorrect text and suggest the corrected version.
@@ -38,8 +36,6 @@ When creating a new issue, it's important to provide as much information as poss
 
 ### To submit a bug
 > If you have encountered a bug or error while using the MathCA app, please follow these steps:
->
-> Before submitting a ticket for a typo or content correction, please check if a similar issue has already been reported [here](https://github.com/mathcaapp/mathca/issues).
 > 
 > **Title:** Give a concise and descriptive title to your bug report, such as "Error when performing calculation in MathCA Pro version 2.1.0."
 > 
@@ -58,9 +54,7 @@ When creating a new issue, it's important to provide as much information as poss
 > To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **bug**. [Here](https://github.com/mathcaapp/mathca/issues/5) you can see an example of a bug issue. 
 
 
-### To request new content
-> Before requesting new content, please check the [roadmap](https://github.com/users/mathcaapp/projects/1) of MathCA to see if our developing team has already planned the addition of this feature.
-> 
+### To request new content 
 > If you have a suggestion or request for new content to be added to the MathCA app, please follow these steps:
 > 
 > **Title:** Give a concise and descriptive title to your request, such as "New content suggestion for MathCA Pro version 2.1.0" or "Request for additional features in MathCA Basic version 1.5.2."
