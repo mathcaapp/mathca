@@ -1,19 +1,21 @@
 # MathCA Bug Tracking Guide
 Welcome to the MathCA Bug Tracking Guide! This guide will provide you with instructions on how to effectively track and report bugs, errors, and typos in the MathCA app. By following these steps, you can help us improve the app and provide a better experience for all users. Please, before submitting a correction check the open tickets to see if the issue has already been submitted. You can also check the current open tickets to get familiar with the [MathCA Bug Tracking system](https://github.com/mathcaapp/mathca/issues)
 
-## Step 1: Creating a GitHub Account
+## Step 1: Creating a GitHub Account
+
 To begin, you will need a GitHub account. GitHub is a popular platform for hosting and managing software projects. If you don't have an account yet, you can sign up for free at [github.com](https://github.com/).
 
-## Step 2: Accessing the MathCA Repository
+## Step 2: Accessing the MathCA Repository
 Once you have a GitHub account, visit the MathCA repository issues section on GitHub at [https://github.com/mathcaapp/mathca/issues](https://github.com/mathcaapp/mathca/issues). 
 
-## Step 3: Review Existing Issues
+## Step 3: Review Existing Issues 
+
 Before submitting a bug report, it's essential to check if the issue you encountered has already been reported. Scroll through the list of issues on the repository's main page or navigate to the "Issues" tab. Use the search bar to look for keywords related to your problem. If you find a similar issue, read through the comments to see if there are any workarounds or updates.
 
 ## Step 4: Creating a New Issue
 If you couldn't find an existing issue that matches the problem you encountered, it's time to create a new one. To do this, click on the "New Issue" button. You'll be presented with a form where you can provide details about the bug you discovered.
 
-## Step 5: Filling out the Bug Report Form
+## Step 5: Filling out the Bug Report Form
 
 When creating a new issue, it's important to provide as much information as possible to help the development team understand and reproduce the problem. Here are some key fields you should fill out:
 
@@ -56,7 +58,7 @@ When creating a new issue, it's important to provide as much information as poss
 > 
 > If you have a suggestion or request for new content to be added to the MathCA app, please follow these steps:
 > 
-> **Title:*+ Give a concise and descriptive title to your request, such as "New content suggestion for MathCA Pro version 2.1.0" or "Request for additional features in MathCA Basic version 1.5.2."
+> **Title:** Give a concise and descriptive title to your request, such as "New content suggestion for MathCA Pro version 2.1.0" or "Request for additional features in MathCA Basic version 1.5.2."
 >
 > **Description:** In the description, clearly explain your request for new content. Provide as much detail as possible, including the specific topic, concept, or feature you would like to see added.
 >
@@ -64,11 +66,11 @@ When creating a new issue, it's important to provide as much information as poss
 >
 > To submit a request use the following [link](https://github.com/mathcaapp/mathca/milestones).
 
-## Step 6: Submitting the Bug Report
+## Step 6: Submitting the Bug Report
 Once you have completed the bug report form, double-check that all the information is accurate and clearly stated. Then click on the "Submit" or "Create Issue" button to submit your bug report to the MathCA development team.
 
-## Step 7: Engaging in Discussions
+## Step 7: Engaging in Discussions
 After submitting the bug report, the MathCA development team may request additional information or clarifications. They might also provide updates or workarounds. Be sure to check your GitHub notifications for any replies or comments on your bug report. Engage in discussions promptly to help the team resolve the issue efficiently.
 
-## THANK YOU!
+## THANK YOU!
 Thank you for your interest in improving MathCA! By following this bug tracking guide and submitting detailed bug reports, you are contributing to the app's development and helping create a better user experience. We appreciate your time and support!
