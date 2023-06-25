@@ -13,10 +13,10 @@ Once you have a GitHub account, visit the MathCA repository issues section on Gi
 
 ## Step 3: Review Existing Issues 
 
-Before submitting a bug report, it's essential to check if the issue you encountered has already been reported. Scroll through the list of issues on the repository's main page or navigate to the "Issues" tab. Use the search bar to look for keywords related to your problem. If you find a similar issue, read through the comments to see if there are any workarounds or updates.
+Before submitting a bug report, it's essential to check if the issue you encountered has already been reported. Scroll through the [list of issues](https://github.com/mathcaapp/mathca/issues) on the repository's main page or navigate to the "Issues" tab. Use the search bar to look for keywords related to your problem. If you find a similar issue, read through the comments to see if there are any workarounds or updates.
 
 ## Step 4: Creating a New Issue
-If you couldn't find an existing issue that matches the problem you encountered, it's time to create a new one. To do this, click on the "New Issue" button. You'll be presented with a form where you can provide details about the bug you discovered.
+If you couldn't find an existing issue that matches the problem you encountered, it's time to create a new one. To do this, click on the "[New Issue](https://github.com/mathcaapp/mathca/issues/new/choose)" button. You'll be presented with a form where you can provide details about the bug you discovered.
 
 ## Step 5: Filling out the Bug Report Form
 
@@ -31,7 +31,7 @@ When creating a new issue, it's important to provide as much information as poss
 >
 > **Screenshots:** If applicable, include screenshots or images that highlight the typo or incorrect content. The easiest way is to copy the image (right click, Copy image) and then paste it (right click, Paste image) into the text box where you describe the issue.
 >
-> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **typo**. [Here](https://github.com/mathcaapp/mathca/issues/7) you can see an example of a bug issue. 
+> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues/new/choose) adding the tag **typo**. [Here](https://github.com/mathcaapp/mathca/issues/7) you can see an example of a bug issue. 
 
 
 ### To submit a bug
@@ -51,7 +51,7 @@ When creating a new issue, it's important to provide as much information as poss
 > 
 > **Additional Information:** Include any other relevant details that might assist in resolving the bug, such as error messages, logs, or related observations.
 >
-> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **bug**. [Here](https://github.com/mathcaapp/mathca/issues/5) you can see an example of a bug issue. 
+> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues/new/choose) adding the tag **bug**. [Here](https://github.com/mathcaapp/mathca/issues/5) you can see an example of a bug issue. 
 
 
 ### To request new content 
@@ -63,7 +63,7 @@ When creating a new issue, it's important to provide as much information as poss
 >
 > **Screenshots:** If applicable, include screenshots or images that support your request. The easiest way is to copy the image (right click, Copy image) and then paste it (right click, Paste image) into the text box where you describe the issue.
 >
-> To submit a request use the following [link](https://github.com/mathcaapp/mathca/milestones) adding the tag **content request** or **feature request**. [Here](https://github.com/mathcaapp/mathca/issues/6) you can see an example of a bug issue. 
+> To submit a request use the following [link](https://github.com/mathcaapp/mathca/issues/new/choose) adding the tag **content request** or **feature request**. [Here](https://github.com/mathcaapp/mathca/issues/6) you can see an example of a bug issue. 
 >
 
 ## Step 6: Submitting the Bug Report
