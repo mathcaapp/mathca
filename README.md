@@ -31,9 +31,10 @@ When creating a new issue, it's important to provide as much information as poss
 >
 > **Description:** In the description, clearly mention the specific area where the typo or incorrect content is located. Provide the incorrect text and suggest the corrected version.
 >
-> **Screenshots:** If applicable, include screenshots or images that highlight the typo or incorrect content.
+> **Screenshots:** If applicable, include screenshots or images that highlight the typo or incorrect content. The easiest way is to copy the image (right click, Copy image) and then paste it (right click, Paste image) into the text box where you describe the issue.
 >
-> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **typo**.
+> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **typo**. [Here](https://github.com/mathcaapp/mathca/issues/7) you can see an example of a bug issue. 
+
 
 ### To submit a bug
 > If you have encountered a bug or error while using the MathCA app, please follow these steps:
@@ -44,7 +45,7 @@ When creating a new issue, it's important to provide as much information as poss
 > 
 > **Description:** In the description, explain the bug or issue you encountered. Be sure to include steps to reproduce the problem, including any specific inputs or actions that triggered the error.
 > 
-> **Screenshots:** If applicable, include screenshots or images that illustrate the issue. This can be helpful in understanding the problem visually.
+> **Screenshots:** If applicable, include screenshots or images that illustrate the issue. This can be helpful in understanding the problem visually. The easiest way is to copy the image (right click, Copy image) and then paste it (right click, Paste image) into the text box where you describe the issue.
 > 
 > **Expected Behavior:** Describe what you expected to happen when using the app.
 > 
@@ -54,7 +55,8 @@ When creating a new issue, it's important to provide as much information as poss
 > 
 > **Additional Information:** Include any other relevant details that might assist in resolving the bug, such as error messages, logs, or related observations.
 >
-> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **bug**.
+> To submit a ticket use the following [link](https://github.com/mathcaapp/mathca/issues) adding the tag **bug**. [Here](https://github.com/mathcaapp/mathca/issues/5) you can see an example of a bug issue. 
+
 
 ### To request new content
 > Before requesting new content, please check the [roadmap](https://github.com/users/mathcaapp/projects/1) of MathCA to see if our developing team has already planned the addition of this feature.
@@ -65,9 +67,10 @@ When creating a new issue, it's important to provide as much information as poss
 >
 > **Description:** In the description, clearly explain your request for new content. Provide as much detail as possible, including the specific topic, concept, or feature you would like to see added.
 >
-> **Screenshots:** If applicable, include screenshots or images that support your request.
+> **Screenshots:** If applicable, include screenshots or images that support your request. The easiest way is to copy the image (right click, Copy image) and then paste it (right click, Paste image) into the text box where you describe the issue.
 >
-> To submit a request use the following [link](https://github.com/mathcaapp/mathca/milestones) adding the tag **roadmap**.
+> To submit a request use the following [link](https://github.com/mathcaapp/mathca/milestones) adding the tag **content request** or **feature request**. [Here](https://github.com/mathcaapp/mathca/issues/6) you can see an example of a bug issue. 
+>
 
 ## Step 6: Submitting the Bug Report
 Once you have completed the bug report form, double-check that all the information is accurate and clearly stated. Then click on the "Submit" or "Create Issue" button to submit your bug report to the MathCA development team.
