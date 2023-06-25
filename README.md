@@ -1,3 +1,6 @@
+The preferred method to contribute to MathCA is by utilizing the GitHub issue tracking system. GitHub, which is developed and maintained by Microsoft, is the leading platform for code development worldwide. However, we understand that not everyone may have a GitHub account or may prefer not to create one. In such cases, you can still contribute by sending us any typos, bugs, or improvement suggestions via email to [develop@mathca.app](mailto:develop@mathca.app?subject=MathCA%20APP%20-%20Issue). We appreciate your contributions and strive to make it convenient for users to engage with us, whether through GitHub or alternative communication channels.
+
+
 # MathCA Bug Tracking Guide
 Welcome to the MathCA Bug Tracking Guide! This guide will provide you with instructions on how to effectively track and report bugs, errors, and typos in the MathCA app. By following these steps, you can help us improve the app and provide a better experience for all users. Please, before submitting a correction check the open tickets to see if the issue has already been submitted. You can also check the current open tickets to get familiar with the [MathCA Bug Tracking system](https://github.com/mathcaapp/mathca/issues)
 
